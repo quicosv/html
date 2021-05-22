@@ -9,11 +9,11 @@ La siguiente tabla recoge algunos de los símbolos más utilizados y el código 
 
 | Caracter | Descripción del caracter | Código |
 | --- | --- | --- |
-| < | Menor que | &lt; |
-| > | Mayor que | &gt; |
-| © | Copyright | &copy; |
-| € | Euro | &euro; |
-| & | Ampersand | &amp; |
-| « | Abrir comillas angulares (las que se debe usar en español) | &laquo; |
-| » | Cerrar comillas angulares (las que se deben usar en español) | &raquo; |
-| — | Guión largo | &mdash; |
+| < | Menor que | `&lt;` |
+| > | Mayor que | `&gt;` |
+| © | Copyright | `&copy;` |
+| € | Euro | `&euro;` |
+| & | Ampersand | `&amp;` |
+| « | Abrir comillas angulares (las que se debe usar en español) | `&laquo;` |
+| » | Cerrar comillas angulares (las que se deben usar en español) | `&raquo;` |
+| — | Guión largo | `&mdash;` |
